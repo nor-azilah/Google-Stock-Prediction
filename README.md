@@ -14,14 +14,14 @@ This repository contains code and resources to predict Google's stock prices usi
 - Visualization of predictions and actual stock prices.
 
 
-## Installation
+## Requirements
 
-
-
-
-
-
-
+- Python 3.8
+- TensorFlow
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 
 ## Results
